@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elephantgokul.github.io/webofvlsi-pro/sitemap.xml
